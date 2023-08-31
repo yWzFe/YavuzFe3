@@ -9,7 +9,7 @@
 
 
 @media (max-width: 576px) {
-    .container1{
+  .container1{
     width: 30%;
 
   }
@@ -45,10 +45,47 @@
   h4 {
     font-size: 210%;
   }
+  
+  
 }
 /*Small devices (landscape phones, 576px ve yukarısı)*/
 @media (min-width: 576px) {
+  .container1{
+    width: 30%;
 
+  }
+  .container2{
+    width: 70%;
+  }
+
+  #logo {
+    width: 430px;
+
+    margin-bottom: 54px;
+    border-radius: 8%;
+  }
+  #icon {
+    width: 60px;
+    margin-left: 9px;
+    margin-right: 70px;
+    margin-bottom: 45px;
+  }
+  #icon1 {
+    width: 120px;
+    margin-right: 35px;
+    margin-left: 10px;
+    margin-top: 30px;
+  }
+  .avat {
+    width: 100px;
+    margin-bottom: 25px;
+  }
+  h1 {
+    font-size:370%;
+  }
+  h4 {
+    font-size: 210%;
+  }
 }
 
 /*Medium devices (tablets, 768px ve yukarısı)*/
