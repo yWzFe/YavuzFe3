@@ -1,19 +1,24 @@
 @media (max-width: 576px) {
+  .container1{
+    height: 75%;
+  }
+  .container2{
+    height: 25%;
+  }
   .logo{
-    width: 100px;
+    width: 190px;
   }
 
     h1 {
-      font-size: 100%;
+      font-size: 470%;
     }
     h4 {
-      font-size: 100%;
+      font-size: 220%;
     }
     .foto{
       margin-left: 6px;
       margin-right: 6px;
-        width: 135px;
-        
+        width: 280px;
     }
   }
 
